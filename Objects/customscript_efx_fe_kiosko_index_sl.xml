@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_efx_fe_kiosko_index_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX - Kiosko Index SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_Kiosko_Index_SL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_fe_kiosko_index_sl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Kiosko Index SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

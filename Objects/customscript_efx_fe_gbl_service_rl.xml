@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_efx_fe_gbl_service_rl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX FE GBL Service</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Service_Global_RL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_fe_gbl_service_rl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>EFX FE GBL Service</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

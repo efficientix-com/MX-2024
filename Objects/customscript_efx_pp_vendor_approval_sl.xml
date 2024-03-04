@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_efx_pp_vendor_approval_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX PP - Vendor Approval SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/PortalProveedores/PreciosYpromociones/efx_pp_vendor_approval_sl_V1.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_pp_vendor_approval_sl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole>ADMINISTRATOR|VENDOR_CENTER</audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX PP - Vendor Approval SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

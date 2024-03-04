@@ -1,0 +1,37 @@
+<othercustomfield scriptid="custrecord_efx_fe_ce_destinatario">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <applytoallforms>T</applytoallforms>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description>En este nodo utilizado en comercio exterior se pueden expresar los datos del destinatario de la mercancía cuando este sea distinto del receptor del comprobante, o bien cuando el domicilio se trate de alguna sucursal.&#xd;
+Si el tipo de comprobante es “T” (Traslado), solo se puede registrar un destinatario.</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>SELECT</fieldtype>
+  <help></help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>SAT Destinatario</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete>NO_ACTION</onparentdelete>
+  <rectype>-289</rectype>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype>[scriptid=customrecord_efx_fe_ce_addres_destinatar]</selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>T</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+</othercustomfield>

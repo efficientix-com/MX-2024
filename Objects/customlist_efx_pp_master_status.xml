@@ -1,0 +1,32 @@
+<customlist scriptid="customlist_efx_pp_master_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>EFX - PP Master Status</name>
+  <customvalues>
+    <customvalue scriptid="val_241882_t2220309_543">
+      <isinactive>F</isinactive>
+      <value>Procesado</value>
+    </customvalue>
+    <customvalue scriptid="val_241883_t2220309_945">
+      <isinactive>F</isinactive>
+      <value>Procesando</value>
+    </customvalue>
+    <customvalue scriptid="val_241884_t2220309_636">
+      <isinactive>F</isinactive>
+      <value>Error</value>
+    </customvalue>
+    <customvalue scriptid="val_241885_t2220309_610">
+      <isinactive>F</isinactive>
+      <value>Cancelado</value>
+    </customvalue>
+    <customvalue scriptid="val_241887_t2220309_933">
+      <isinactive>F</isinactive>
+      <value>Creado</value>
+    </customvalue>
+    <customvalue scriptid="val_241927_t2220309_291">
+      <isinactive>F</isinactive>
+      <value>Parcialidad</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,36 @@
+<othercustomfield scriptid="custrecord_efx_fe_ce_estado">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <applytoallforms>T</applytoallforms>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description></description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>SELECT</fieldtype>
+  <help>En este campo se deberá registrar el estado, entidad, región, comunidad, en donde se encuentra ubicado el domicilio utilizado para carta porte o comercio exterior, si la clave del país es distinta a “MEX”, “USA” o &quot;CAN” se puede registrar texto libre. El dato capturado en este campo debe coincidir con el país capturado en el campo “Pais”.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>SAT Estado</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete>NO_ACTION</onparentdelete>
+  <rectype>-289</rectype>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype>[scriptid=customrecord_efx_fe_sat_estado]</selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>T</showinlist>
+  <sourcefilterby>[scriptid=customrecord_efx_fe_sat_estado.custrecord_efx_fe_se_pais_ns]</sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist>[scriptid=custrecord_efx_fe_ce_pais]</sourcelist>
+  <storevalue>T</storevalue>
+</othercustomfield>

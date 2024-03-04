@@ -1,0 +1,13 @@
+<pluginimplementation scriptid="customscript_efx_inbound_validate">
+  <customplugintype>[scriptid=customscript_ei_pl_type_validation]</customplugintype>
+  <description></description>
+  <isinactive>F</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>Inbound Validation</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/inbound.js]</scriptfile>
+  <status>RELEASED</status>
+</pluginimplementation>

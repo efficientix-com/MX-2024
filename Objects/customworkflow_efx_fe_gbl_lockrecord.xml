@@ -1,0 +1,48 @@
+<workflow scriptid="customworkflow_efx_fe_gbl_lockrecord">
+  <description>Bloquea las facturas espejo creadas por la facturación global para que no se puedan realizar acciones en la misma</description>
+  <initcontexts>ACTION|BANKCONNECTIVITY|BANKSTATEMENTPARSER|BUNDLEINSTALLATION|CLIENT|CSVIMPORT|CUSTOMGLLINES|CUSTOMMASSUPDATE|RECORDACTION|DATASETBUILDER|DEBUGGER|EMAILCAPTURE|FICONNECTIVITY|FIPARSER|OFFLINECLIENT|OTHER|PAYMENTPOSTBACK|PAYMENTGATEWAY|PLATFORMEXTENSION|PROMOTIONS|CONSOLRATEADJUSTOR|ADVANCEDREVREC|SDFINSTALLATION|SHIPPINGPARTNERS|TAXCALCULATION|USERINTERFACE|WORKBOOKBUILDER|WORKFLOW</initcontexts>
+  <initeventtypes></initeventtypes>
+  <initlocalizationcontext></initlocalizationcontext>
+  <initoncreate>T</initoncreate>
+  <initonvieworupdate>T</initonvieworupdate>
+  <initsavedsearchcondition></initsavedsearchcondition>
+  <inittriggertype></inittriggertype>
+  <isinactive>F</isinactive>
+  <islogenabled>T</islogenabled>
+  <keephistory>ALWAYS</keephistory>
+  <name>EFX GBL - Lock Record</name>
+  <recordtypes>INVOICE</recordtypes>
+  <releasestatus>RELEASED</releasestatus>
+  <runasadmin>T</runasadmin>
+  <initcondition>
+    <formula></formula>
+    <type>VISUAL_BUILDER</type>
+  </initcondition>
+  <workflowstates>
+    <workflowstate scriptid="workflowstate115">
+      <description></description>
+      <donotexitworkflow>F</donotexitworkflow>
+      <name>Bloquea Record</name>
+      <positionx>243</positionx>
+      <positiony>133</positiony>
+      <workflowactions triggertype="BEFORELOAD">
+        <lockrecordaction scriptid="workflowaction_efx_fe_gbl_bloquea">
+          <conditionsavedsearch></conditionsavedsearch>
+          <contexttypes>ACTION|BANKCONNECTIVITY|BANKSTATEMENTPARSER|BUNDLEINSTALLATION|CLIENT|CSVIMPORT|CUSTOMGLLINES|CUSTOMMASSUPDATE|RECORDACTION|DATASETBUILDER|DEBUGGER|EMAILCAPTURE|FICONNECTIVITY|FIPARSER|OFFLINECLIENT|OTHER|PAYMENTPOSTBACK|PAYMENTGATEWAY|PLATFORMEXTENSION|PROMOTIONS|CONSOLRATEADJUSTOR|ADVANCEDREVREC|SDFINSTALLATION|SHIPPINGPARTNERS|TAXCALCULATION|USERINTERFACE|WORKBOOKBUILDER|WORKFLOW</contexttypes>
+          <eventtypes></eventtypes>
+          <isinactive>F</isinactive>
+          <initcondition>
+            <formula><![CDATA[isChecked("Es Factura Espejo") = 'T']]></formula>
+            <type>VISUAL_BUILDER</type>
+            <parameters>
+              <parameter>
+                <name>Es Factura Espejo</name>
+                <value>[scriptid=custbody_efx_fe_gbl_ismirror]</value>
+              </parameter>
+            </parameters>
+          </initcondition>
+        </lockrecordaction>
+      </workflowactions>
+    </workflowstate>
+  </workflowstates>
+</workflow>

@@ -1,0 +1,26 @@
+<suitelet scriptid="customscript_tkio_citas_prov_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Citas proveedores</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/PortalProveedores/Proyecto citas/tkio_citas_prov_SL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_tkio_citas_prov_sl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <audsubsidiary>[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]</audsubsidiary>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Citas proveedores</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

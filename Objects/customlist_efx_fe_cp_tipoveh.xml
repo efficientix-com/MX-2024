@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_cp_tipoveh">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>CP - Tipo de Vehiculo</name>
+  <customvalues>
+    <customvalue scriptid="val_282208_t2220309_971">
+      <isinactive>F</isinactive>
+      <value>Vehiculo de Motor</value>
+    </customvalue>
+    <customvalue scriptid="val_282209_t2220309_924">
+      <isinactive>F</isinactive>
+      <value>Remolque</value>
+    </customvalue>
+  </customvalues>
+</customlist>

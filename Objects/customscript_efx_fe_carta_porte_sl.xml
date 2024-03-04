@@ -1,0 +1,26 @@
+<suitelet scriptid="customscript_efx_fe_carta_porte_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX_FE_Carta_Porte_SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/Factura_Electronica/CartaPorte/EFX_FE_Carta_Porte_SL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_fe_carta_porte_sl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <audsubsidiary>[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]</audsubsidiary>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX_FE_Carta_Porte_SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

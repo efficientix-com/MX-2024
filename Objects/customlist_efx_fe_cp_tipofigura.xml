@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_efx_fe_cp_tipofigura">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>CP - Tipo Figura Transporte</name>
+  <customvalues>
+    <customvalue scriptid="val_281845_t2220309_763">
+      <isinactive>F</isinactive>
+      <value>01-Operador</value>
+    </customvalue>
+    <customvalue scriptid="val_281846_t2220309_689">
+      <isinactive>F</isinactive>
+      <value>02-Propietario</value>
+    </customvalue>
+    <customvalue scriptid="val_281847_t2220309_223">
+      <isinactive>F</isinactive>
+      <value>03-Arrendador</value>
+    </customvalue>
+    <customvalue scriptid="val_281848_t2220309_552">
+      <isinactive>F</isinactive>
+      <value>04-Notificado</value>
+    </customvalue>
+  </customvalues>
+</customlist>

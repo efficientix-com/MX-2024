@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_transpinternac">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>CP - Transporte Internecional</name>
+  <customvalues>
+    <customvalue scriptid="val_255193_t2220309_650">
+      <isinactive>F</isinactive>
+      <value>Si</value>
+    </customvalue>
+    <customvalue scriptid="val_255194_t2220309_785">
+      <isinactive>F</isinactive>
+      <value>No</value>
+    </customvalue>
+  </customvalues>
+</customlist>

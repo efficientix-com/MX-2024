@@ -1,0 +1,617 @@
+<status>
+  <objects>
+    <warnings>
+      <warning>
+        <displayid>custcollection_ei_translations</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>translationcollection</recordtype>
+      </warning>
+      <warning>
+        <displayid>517</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>518</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>507</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>513</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>487</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>501</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customlist</recordtype>
+      </warning>
+      <warning>
+        <displayid>-10100</displayid>
+        <message>The object cannot be included in your project due to an unexpected error. A NetSuite support ticket has been created:ltd4qx3h135ygp4wcz8mc.</message>
+        <recordtype>transactionform</recordtype>
+      </warning>
+      <warning>
+        <displayid>4883</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entitycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>504</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customlist</recordtype>
+      </warning>
+      <warning>
+        <displayid>497</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>4763</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>transactionbodycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>498</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>520</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>491</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>7118</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entitycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>225</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entryform</recordtype>
+      </warning>
+      <warning>
+        <displayid>4755</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>transactionbodycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>222</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entryform</recordtype>
+      </warning>
+      <warning>
+        <displayid>226</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entryform</recordtype>
+      </warning>
+      <warning>
+        <displayid>4754</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entitycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>503</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customlist</recordtype>
+      </warning>
+      <warning>
+        <displayid>512</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>252</displayid>
+        <message>The object cannot be included in your project due to an unexpected error. A NetSuite support ticket has been created:ltd4uae3jdthhryjs7xj.</message>
+        <recordtype>transactionform</recordtype>
+      </warning>
+      <warning>
+        <displayid>523</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>4769</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>transactionbodycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>4901</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>transactionbodycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>7117</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entitycustomfield</recordtype>
+      </warning>
+      <warning>
+        <displayid>492</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>511</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>customrecordtype</recordtype>
+      </warning>
+      <warning>
+        <displayid>custcollection_mx</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>translationcollection</recordtype>
+      </warning>
+      <warning>
+        <displayid>224</displayid>
+        <message>The object is locked and will not be included in your project.</message>
+        <recordtype>entryform</recordtype>
+      </warning>
+    </warnings>
+    <summary>
+      <totalimportedcount>407</totalimportedcount>
+      <warningcount>32</warningcount>
+    </summary>
+  </objects>
+  <files>
+    <warnings>
+      <warning>
+        <displayid>18731</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19231</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19228</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19056</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11496</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19058</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>17292</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14571</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13773</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>15431</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11473</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16767</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19031</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19570</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14674</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18831</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18601</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18732</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16876</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19580</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>15328</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13533</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>17393</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18260</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11472</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11479</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13835</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13834</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13832</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16359</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14471</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13536</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13843</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14466</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11495</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19059</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16875</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19054</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19235</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13499</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13497</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13816</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19057</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18264</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18251</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18292</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16463</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18394</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19055</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13836</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14463</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16985</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14464</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14467</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13540</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19575</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16878</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18250</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13535</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14684</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13562</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13527</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13537</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16459</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18733</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19232</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11477</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13831</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>15430</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14999</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19230</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13531</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19566</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16877</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11481</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11482</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18294</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13820</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16563</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19239</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13818</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14469</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18266</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13842</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13532</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19241</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11013</displayid>
+        <message>The file is locked and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19237</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19233</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13529</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>17092</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>15436</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18602</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14465</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13530</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>15228</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>19067</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16357</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11475</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13508</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13534</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11471</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>13833</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>18495</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14686</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>17493</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>16460</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>11487</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+      <warning>
+        <displayid>14472</displayid>
+        <message>The file has the hide in bundle property on and will not be included in your project.</message>
+      </warning>
+    </warnings>
+    <summary>
+      <totalimportedcount>277</totalimportedcount>
+      <warningcount>109</warningcount>
+      <generalwarning>The imported bundle contains one or more files or folders outside of the /SuiteScripts, /Web Site Hosting Files, /Templates/E-mail Templates, and /Templates/Marketing Templates folders. All components must be moved into one of those folders to deploy the imported bundle.</generalwarning>
+    </summary>
+  </files>
+  <translations/>
+  <summary>Conversion finished successfully.</summary>
+</status>

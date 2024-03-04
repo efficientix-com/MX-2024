@@ -1,0 +1,19 @@
+<centercategory scriptid="custcentercategory_efx_pp_oc_load">
+  <center>VENDOR</center>
+  <centertab>[scriptid=custcentertab_efx_pp_vendor_portal]</centertab>
+  <label>Portal de Proveedores</label>
+  <links>
+    <link>
+      <linklabel>Carga de Facturas</linklabel>
+      <linkobject>[scriptid=customscript_efx_pp_ws_portal_sl.customdeploy_efx_pp_ws_portal_sl]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Ordenes de Compra en proceso</linklabel>
+      <linkobject>[scriptid=customscript_efx_pp_ws_portal_sl.customdeploy_efx_pp_ws_portal_sl_2]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

@@ -1,0 +1,112 @@
+<customlist scriptid="customlist_efx_cp_cod_autofederal">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Codigos AutotransporteFederal</name>
+  <customvalues>
+    <customvalue scriptid="val_274883_t2220309_406">
+      <isinactive>F</isinactive>
+      <value>TPAF01-Autotransporte Federal de carga general.</value>
+    </customvalue>
+    <customvalue scriptid="val_274884_t2220309_744">
+      <isinactive>F</isinactive>
+      <value>TPAF02-Transporte privado de carga.</value>
+    </customvalue>
+    <customvalue scriptid="val_274885_t2220309_650">
+      <isinactive>F</isinactive>
+      <value>TPAF03-Autotransporte Federal de Carga Especializada de materiales y residuos peligrosos.</value>
+    </customvalue>
+    <customvalue scriptid="val_214759_t2220345_701">
+      <isinactive>F</isinactive>
+      <value>TPAF04-Transporte de automóviles sin rodar en vehículo tipo góndola.</value>
+    </customvalue>
+    <customvalue scriptid="val_214760_t2220345_704">
+      <isinactive>F</isinactive>
+      <value>TPAF05-Transporte de carga de gran peso y/o volumen de hasta 90 toneladas.</value>
+    </customvalue>
+    <customvalue scriptid="val_214761_t2220345_236">
+      <isinactive>F</isinactive>
+      <value>TPAF06-Transporte de carga especializada de gran peso y/o volumen de más 90 toneladas.</value>
+    </customvalue>
+    <customvalue scriptid="val_214762_t2220345_625">
+      <isinactive>F</isinactive>
+      <value>TPAF07-Transporte Privado de materiales y residuos peligrosos.</value>
+    </customvalue>
+    <customvalue scriptid="val_214763_t2220345_214">
+      <isinactive>F</isinactive>
+      <value>TPAF08-Autotransporte internacional de carga de largo recorrido.</value>
+    </customvalue>
+    <customvalue scriptid="val_214764_t2220345_633">
+      <isinactive>F</isinactive>
+      <value>TPAF09-Autotransporte internacional de carga especializada de materiales y residuos peligrosos de largo recorrido.</value>
+    </customvalue>
+    <customvalue scriptid="val_214765_t2220345_578">
+      <isinactive>F</isinactive>
+      <value>TPAF10-Autotransporte Federal de Carga General cuyo ámbito de aplicación comprende la franja fronteriza con Estados Unidos.</value>
+    </customvalue>
+    <customvalue scriptid="val_214766_t2220345_262">
+      <isinactive>F</isinactive>
+      <value>TPAF11-Autotransporte Federal de Carga Especializada cuyo ámbito de aplicación comprende la franja fronteriza con Estados Unidos.</value>
+    </customvalue>
+    <customvalue scriptid="val_214767_t2220345_276">
+      <isinactive>F</isinactive>
+      <value>TPAF12-Servicio auxiliar de arrastre en las vías generales de comunicación.</value>
+    </customvalue>
+    <customvalue scriptid="val_214768_t2220345_722">
+      <isinactive>F</isinactive>
+      <value>TPAF13-Servicio auxiliar de servicios de arrastre, arrastre y salvamento, y depósito de vehículos en las vías generales de comunicación.</value>
+    </customvalue>
+    <customvalue scriptid="val_214769_t2220345_886">
+      <isinactive>F</isinactive>
+      <value>TPAF14-Servicio de paquetería y mensajería en las vías generales de comunicación.</value>
+    </customvalue>
+    <customvalue scriptid="val_214770_t2220345_841">
+      <isinactive>F</isinactive>
+      <value>TPAF15-Transporte especial para el tránsito de grúas industriales con peso máximo de 90 toneladas.</value>
+    </customvalue>
+    <customvalue scriptid="val_214771_t2220345_809">
+      <isinactive>F</isinactive>
+      <value>TPAF16-Servicio federal para empresas arrendadoras servicio público federal.</value>
+    </customvalue>
+    <customvalue scriptid="val_214772_t2220345_643">
+      <isinactive>F</isinactive>
+      <value>TPAF17-Empresas trasladistas de vehículos nuevos.</value>
+    </customvalue>
+    <customvalue scriptid="val_214773_t2220345_496">
+      <isinactive>F</isinactive>
+      <value>TPAF18-Empresas fabricantes o distribuidoras de vehículos nuevos.</value>
+    </customvalue>
+    <customvalue scriptid="val_214774_t2220345_264">
+      <isinactive>F</isinactive>
+      <value>TPAF19-Autorización expresa para circular en los caminos y puentes de jurisdicción federal con configuraciones de tractocamión doblemente articulado.</value>
+    </customvalue>
+    <customvalue scriptid="val_214775_t2220345_848">
+      <isinactive>F</isinactive>
+      <value>TPAF20-Autotransporte Federal de Carga Especializada de fondos y valores.</value>
+    </customvalue>
+    <customvalue scriptid="val_214776_t2220345_288">
+      <isinactive>F</isinactive>
+      <value>TPTM01-Permiso temporal para navegación de cabotaje</value>
+    </customvalue>
+    <customvalue scriptid="val_214777_t2220345_812">
+      <isinactive>F</isinactive>
+      <value>TPTA01-Concesión y/o autorización para el servicio regular nacional y/o internacional para empresas mexicanas</value>
+    </customvalue>
+    <customvalue scriptid="val_214778_t2220345_289">
+      <isinactive>F</isinactive>
+      <value>TPTA02-Permiso para el servicio aéreo regular de empresas extranjeras</value>
+    </customvalue>
+    <customvalue scriptid="val_214779_t2220345_430">
+      <isinactive>F</isinactive>
+      <value>TPTA03-Permiso para el servicio nacional e internacional no regular de fletamento</value>
+    </customvalue>
+    <customvalue scriptid="val_214780_t2220345_252">
+      <isinactive>F</isinactive>
+      <value>TPTA04-Permiso para el servicio nacional e internacional no regular de taxi aéreo</value>
+    </customvalue>
+    <customvalue scriptid="val_214781_t2220345_561">
+      <isinactive>F</isinactive>
+      <value>TPXX00-Permiso no contemplado en el catálogo.</value>
+    </customvalue>
+  </customvalues>
+</customlist>

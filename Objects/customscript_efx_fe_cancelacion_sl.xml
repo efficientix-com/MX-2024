@@ -1,0 +1,84 @@
+<suitelet scriptid="customscript_efx_fe_cancelacion_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX_FE_Cancelacion_SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/Factura_Electronica/Cancelacion/EFX_FE_Cancelacion_SL.js]</scriptfile>
+  <scriptcustomfields>
+    <scriptcustomfield scriptid="custscript_efx_fe_cancel_hrs_hide">
+      <accesslevel>2</accesslevel>
+      <applyformatting>F</applyformatting>
+      <checkspelling>F</checkspelling>
+      <defaultchecked>F</defaultchecked>
+      <defaultselection></defaultselection>
+      <defaultvalue></defaultvalue>
+      <description></description>
+      <displayheight></displayheight>
+      <displaytype>NORMAL</displaytype>
+      <displaywidth></displaywidth>
+      <dynamicdefault></dynamicdefault>
+      <fieldtype>CHECKBOX</fieldtype>
+      <help></help>
+      <isformula>F</isformula>
+      <ismandatory>F</ismandatory>
+      <label>Oculta Boton a 72 HRS</label>
+      <linktext></linktext>
+      <maxlength></maxlength>
+      <maxvalue></maxvalue>
+      <minvalue></minvalue>
+      <onparentdelete></onparentdelete>
+      <searchlevel>2</searchlevel>
+      <selectrecordtype></selectrecordtype>
+      <setting>COMPANY</setting>
+      <storevalue>T</storevalue>
+    </scriptcustomfield>
+  </scriptcustomfields>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_fe_cancel_sl_payment">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole></audslctrole>
+      <custscript_efx_fe_cancel_hrs_hide>F</custscript_efx_fe_cancel_hrs_hide>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX_FE_Cancelacion_SL Payment</title>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_efx_fe_cancelacion_sl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <audsubsidiary>[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]</audsubsidiary>
+      <custscript_efx_fe_cancel_hrs_hide>F</custscript_efx_fe_cancel_hrs_hide>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX_FE_Cancelacion_SL</title>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_efx_fe_cancelacion_sl_gbl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole></audslctrole>
+      <custscript_efx_fe_cancel_hrs_hide>F</custscript_efx_fe_cancel_hrs_hide>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX_FE_Cancelacion_SL_gbl</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

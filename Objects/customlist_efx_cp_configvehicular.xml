@@ -1,0 +1,144 @@
+<customlist scriptid="customlist_efx_cp_configvehicular">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Codigo ConfigVehicular</name>
+  <customvalues>
+    <customvalue scriptid="val_274892_t2220309_310">
+      <isinactive>F</isinactive>
+      <value>C2-Camión Unitario (2 llantas en el eje delantero y 4 llantas en el eje trasero)</value>
+    </customvalue>
+    <customvalue scriptid="val_274893_t2220309_715">
+      <isinactive>F</isinactive>
+      <value>C2R2-Camión-Remolque (6 llantas en el camión y 8 llantas en remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_274894_t2220309_843">
+      <isinactive>F</isinactive>
+      <value>C3R2-Camión-Remolque (10 llantas en el camión y 8 llantas en remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214728_t2220345_305">
+      <isinactive>F</isinactive>
+      <value>VL-Vehículo ligero de carga (2 llantas en el eje delantero y 2 llantas en el eje trasero)</value>
+    </customvalue>
+    <customvalue scriptid="val_214729_t2220345_534">
+      <isinactive>F</isinactive>
+      <value>C3-Camión Unitario (2 llantas en el eje delantero y 6 o 8 llantas en los dos ejes traseros)</value>
+    </customvalue>
+    <customvalue scriptid="val_214730_t2220345_615">
+      <isinactive>F</isinactive>
+      <value>C2R3-Camión-Remolque (6 llantas en el camión y 12 llantas en remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214731_t2220345_859">
+      <isinactive>F</isinactive>
+      <value>C3R3-Camión-Remolque (10 llantas en el camión y 12 llantas en remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214732_t2220345_912">
+      <isinactive>F</isinactive>
+      <value>T2S1-Tractocamión Articulado (6 llantas en el tractocamión, 4 llantas en el semirremolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214733_t2220345_260">
+      <isinactive>F</isinactive>
+      <value>T2S2-Tractocamión Articulado (6 llantas en el tractocamión, 8 llantas en el semirremolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214734_t2220345_134">
+      <isinactive>F</isinactive>
+      <value>T2S3-Tractocamión Articulado (6 llantas en el tractocamión, 12 llantas en el semirremolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214735_t2220345_758">
+      <isinactive>F</isinactive>
+      <value>T3S1-Tractocamión Articulado (10 llantas en el tractocamión, 4 llantas en el semirremolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214736_t2220345_497">
+      <isinactive>F</isinactive>
+      <value>T3S2-Tractocamión Articulado (10 llantas en el tractocamión, 8 llantas en el semirremolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214737_t2220345_472">
+      <isinactive>F</isinactive>
+      <value>T3S3-Tractocamión Articulado (10 llantas en el tractocamión, 12 llantas en el semirremolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214738_t2220345_254">
+      <isinactive>F</isinactive>
+      <value>T2S1R2-Tractocamión Semirremolque-Remolque (6 llantas en el tractocamión, 4 llantas en el semirremolque y 8 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214739_t2220345_839">
+      <isinactive>F</isinactive>
+      <value>T2S2R2-Tractocamión Semirremolque-Remolque (6 llantas en el tractocamión, 8 llantas en el semirremolque y 8 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214740_t2220345_913">
+      <isinactive>F</isinactive>
+      <value>T2S1R3-Tractocamión Semirremolque-Remolque (6 llantas en el tractocamión, 4 llantas en el semirremolque y 12 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214741_t2220345_210">
+      <isinactive>F</isinactive>
+      <value>T3S1R2-Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 4 llantas en el semirremolque y 8 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214742_t2220345_802">
+      <isinactive>F</isinactive>
+      <value>T3S1R3-Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 4 llantas en el semirremolque y 12 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214743_t2220345_554">
+      <isinactive>F</isinactive>
+      <value>T3S2R2-Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 8 llantas en el semirremolque y 8 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214744_t2220345_107">
+      <isinactive>F</isinactive>
+      <value>T3S2R3-Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 8 llantas en el semirremolque y 12 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214745_t2220345_305">
+      <isinactive>F</isinactive>
+      <value>T3S2R4-Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 8 llantas en el semirremolque y 16 llantas en el remolque)</value>
+    </customvalue>
+    <customvalue scriptid="val_214746_t2220345_722">
+      <isinactive>F</isinactive>
+      <value>T2S2S2-Tractocamión Semirremolque-Semirremolque (6 llantas en el tractocamión, 8 llantas en el semirremolque delantero y 8 llantas en el semirremolque trasero)</value>
+    </customvalue>
+    <customvalue scriptid="val_214747_t2220345_522">
+      <isinactive>F</isinactive>
+      <value>T3S2S2-Tractocamión Semirremolque-Semirremolque (10 llantas en el tractocamión, 8 llantas en el semirremolque delantero y 8 llantas en el semirremolque trasero)</value>
+    </customvalue>
+    <customvalue scriptid="val_214748_t2220345_203">
+      <isinactive>F</isinactive>
+      <value>T3S3S2-Tractocamión Semirremolque-Semirremolque (10 llantas en el tractocamión, 12 llantas en el semirremolque delantero y 8 llantas en el semirremolque trasero)</value>
+    </customvalue>
+    <customvalue scriptid="val_214749_t2220345_616">
+      <isinactive>F</isinactive>
+      <value>OTROEVGP-Especializado de carga Voluminosa y o Gran Peso</value>
+    </customvalue>
+    <customvalue scriptid="val_214750_t2220345_469">
+      <isinactive>F</isinactive>
+      <value>OTROSG-Servicio de Grúas</value>
+    </customvalue>
+    <customvalue scriptid="val_214751_t2220345_116">
+      <isinactive>F</isinactive>
+      <value>GPLUTA-Grúa de Pluma Tipo A</value>
+    </customvalue>
+    <customvalue scriptid="val_214752_t2220345_301">
+      <isinactive>F</isinactive>
+      <value>GPLUTB-Grúa de Pluma Tipo B</value>
+    </customvalue>
+    <customvalue scriptid="val_214753_t2220345_819">
+      <isinactive>F</isinactive>
+      <value>GPLUTC-Grúa de Pluma Tipo C</value>
+    </customvalue>
+    <customvalue scriptid="val_214754_t2220345_316">
+      <isinactive>F</isinactive>
+      <value>GPLUTD-Grúa de Pluma Tipo D</value>
+    </customvalue>
+    <customvalue scriptid="val_214755_t2220345_754">
+      <isinactive>F</isinactive>
+      <value>GPLATA-Grúa de Plataforma Tipo A</value>
+    </customvalue>
+    <customvalue scriptid="val_214756_t2220345_235">
+      <isinactive>F</isinactive>
+      <value>GPLATB-Grúa de Plataforma Tipo B</value>
+    </customvalue>
+    <customvalue scriptid="val_214757_t2220345_703">
+      <isinactive>F</isinactive>
+      <value>GPLATC-Grúa de Plataforma Tipo C</value>
+    </customvalue>
+    <customvalue scriptid="val_214758_t2220345_631">
+      <isinactive>F</isinactive>
+      <value>GPLATD-Grúa de Plataforma Tipo D</value>
+    </customvalue>
+  </customvalues>
+</customlist>

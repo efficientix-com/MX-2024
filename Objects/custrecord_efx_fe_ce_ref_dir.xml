@@ -1,0 +1,37 @@
+<othercustomfield scriptid="custrecord_efx_fe_ce_ref_dir">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <applytoallforms>T</applytoallforms>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description>Se puede registrar una referencia geográfica adicional que permita una más fácil o precisa&#xd;
+ubicación del domicilio del receptor del comprobante, por ejemplo cordenadas GPS.</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <help>Se puede registrar una referencia geográfica adicional que permita una más fácil o precisa ubicación del domicilio a utilizar en carta porte o comercio exterior, por ejemplo cordenadas GPS.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>SAT Referencia</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <rectype>-289</rectype>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+</othercustomfield>

@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_efx_cp_tipoestacion">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Tipo Ubicacion</name>
+  <customvalues>
+    <customvalue scriptid="val_274919_t2220309_659">
+      <isinactive>F</isinactive>
+      <value>Origen</value>
+    </customvalue>
+    <customvalue scriptid="val_274920_t2220309_118">
+      <isinactive>F</isinactive>
+      <value>Destino</value>
+    </customvalue>
+    <customvalue scriptid="val_274921_t2220309_776">
+      <isinactive>F</isinactive>
+      <value>03 - Destino Final Nacional</value>
+    </customvalue>
+  </customvalues>
+</customlist>

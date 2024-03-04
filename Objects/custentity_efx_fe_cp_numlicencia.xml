@@ -1,0 +1,63 @@
+<entitycustomfield scriptid="custentity_efx_fe_cp_numlicencia">
+  <accesslevel>2</accesslevel>
+  <appliestocontact>T</appliestocontact>
+  <appliestocustomer>T</appliestocustomer>
+  <appliestoemployee>F</appliestoemployee>
+  <appliestogenericrsrc>F</appliestogenericrsrc>
+  <appliestogroup>F</appliestogroup>
+  <appliestoothername>F</appliestoothername>
+  <appliestopartner>F</appliestopartner>
+  <appliestopricelist>F</appliestopricelist>
+  <appliestoproject>F</appliestoproject>
+  <appliestoprojecttemplate>F</appliestoprojecttemplate>
+  <appliestostatement>F</appliestostatement>
+  <appliestovendor>F</appliestovendor>
+  <appliestowebsite>F</appliestowebsite>
+  <applyformatting>F</applyformatting>
+  <availableexternally>F</availableexternally>
+  <availabletosso>F</availabletosso>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description>En este campo se deberá registrar&#xd;
+el número de la licencia de conducir o permiso otorgado al operador de&#xd;
+la unidad en la que se está realizando el traslado de bienes y/o&#xd;
+mercancías vía autotransporte.&#xd;
+Ejemplo:&#xd;
+NumLicencia= 000004</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <globalsearch>F</globalsearch>
+  <help>En este campo se deberá registrar&#xd;
+el número de la licencia de conducir o permiso otorgado al operador de&#xd;
+la unidad en la que se está realizando el traslado de bienes y/o&#xd;
+mercancías vía autotransporte.&#xd;
+Ejemplo:&#xd;
+NumLicencia= 000004</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>Numero de Licencia</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>ENTITYMAIN</subtab>
+</entitycustomfield>

@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_efx_valida_xml" standard="STDTMPLCUSTINVC">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>EFX - Validacion XML</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>

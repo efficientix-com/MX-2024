@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_efx_fe_cat_periodicidad">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SAT - Periodicidad</name>
+  <customvalues>
+    <customvalue scriptid="val_195214_7072931_sb1_563">
+      <isinactive>F</isinactive>
+      <value>01-Diario</value>
+    </customvalue>
+    <customvalue scriptid="val_195215_7072931_sb1_522">
+      <isinactive>F</isinactive>
+      <value>02-Semanal</value>
+    </customvalue>
+    <customvalue scriptid="val_195216_7072931_sb1_198">
+      <isinactive>F</isinactive>
+      <value>03-Quincenal</value>
+    </customvalue>
+    <customvalue scriptid="val_195217_7072931_sb1_402">
+      <isinactive>F</isinactive>
+      <value>04-Mensual</value>
+    </customvalue>
+    <customvalue scriptid="val_195218_7072931_sb1_943">
+      <isinactive>F</isinactive>
+      <value>05-Bimestral</value>
+    </customvalue>
+  </customvalues>
+</customlist>

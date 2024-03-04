@@ -1,0 +1,26 @@
+<suitelet scriptid="customscript_efx_fe_kioskopageload_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX-FE- Kiosko Page Load Timing SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_PageLoadTiming.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_fe_kioskopageload_sl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <audsubsidiary>[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]|[ACCOUNT_SPECIFIC_VALUE]</audsubsidiary>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX-FE- Kiosko Page Load Timing SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

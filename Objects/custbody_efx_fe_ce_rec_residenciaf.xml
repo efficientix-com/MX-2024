@@ -1,0 +1,73 @@
+<transactionbodycustomfield scriptid="custbody_efx_fe_ce_rec_residenciaf">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <bodyassemblybuild>F</bodyassemblybuild>
+  <bodybom>F</bodybom>
+  <bodycustomerpayment>F</bodycustomerpayment>
+  <bodycustomtransactions></bodycustomtransactions>
+  <bodydeposit>F</bodydeposit>
+  <bodydepositapplication>F</bodydepositapplication>
+  <bodyexpensereport>F</bodyexpensereport>
+  <bodyfulfillmentrequest>F</bodyfulfillmentrequest>
+  <bodyinventoryadjustment>F</bodyinventoryadjustment>
+  <bodyitemfulfillment>T</bodyitemfulfillment>
+  <bodyitemfulfillmentorder>F</bodyitemfulfillmentorder>
+  <bodyitemreceipt>F</bodyitemreceipt>
+  <bodyitemreceiptorder>F</bodyitemreceiptorder>
+  <bodyjournal>F</bodyjournal>
+  <bodyopportunity>F</bodyopportunity>
+  <bodyothertransaction>F</bodyothertransaction>
+  <bodyperiodendjournal>F</bodyperiodendjournal>
+  <bodypickingticket>F</bodypickingticket>
+  <bodyprintflag>F</bodyprintflag>
+  <bodyprintpackingslip>F</bodyprintpackingslip>
+  <bodyprintstatement>F</bodyprintstatement>
+  <bodypurchase>F</bodypurchase>
+  <bodysale>T</bodysale>
+  <bodystore>F</bodystore>
+  <bodytransferorder>T</bodytransferorder>
+  <bodyvendorpayment>F</bodyvendorpayment>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description></description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <fldsizelabel></fldsizelabel>
+  <globalsearch>F</globalsearch>
+  <help>Cuando el receptor del comprobante sea un residente en el extranjero, se debe registrar&#xd;
+la clave del país de residencia para efectos fiscales del receptor del comprobante.&#xd;
+Este campo es obligatorio cuando la clave en el RFC del receptor es un genérico extranjero,&#xd;
+y se incluya el complemento de comercio exterior o se registre el campo NumRegIdTrib.&#xd;
+ La residencia fiscal debe corresponder con el valor especificado en la columna&#xd;
+Formato de Registro de Identidad Tributaria del catálogo c_Pais.&#xd;
+Ejemplo: Si la residencia fiscal de la empresa extranjera receptora del comprobante fiscal&#xd;
+se encuentra en Estados Unidos de América, se debe registrar lo siguiente:&#xd;
+ResidenciaFiscal= USA</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>Receptor Residencia Fiscal</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>T</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>[scriptid=custtab_mx_cfdi_data]</subtab>
+</transactionbodycustomfield>

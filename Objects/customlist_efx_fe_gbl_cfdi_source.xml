@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_gbl_cfdi_source">
+  <description>Indica de donde se va a tomar la información de cfdi para la factura global.</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>EFX FE - CFDI Source</name>
+  <customvalues>
+    <customvalue scriptid="val_213986_t2220345_629">
+      <isinactive>F</isinactive>
+      <value>Cliente</value>
+    </customvalue>
+    <customvalue scriptid="val_213987_t2220345_270">
+      <isinactive>F</isinactive>
+      <value>Monto Mayor de Factura</value>
+    </customvalue>
+  </customvalues>
+</customlist>

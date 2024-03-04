@@ -1,0 +1,10 @@
+<centertab scriptid="custcentertab_efx_pp_vendor_portal">
+  <allcustomers>F</allcustomers>
+  <allemployees>F</allemployees>
+  <allpartners>F</allpartners>
+  <allroles>T</allroles>
+  <allvendors>F</allvendors>
+  <audslctrole></audslctrole>
+  <center>VENDOR</center>
+  <label>Portal de Proveedores</label>
+</centertab>

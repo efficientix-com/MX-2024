@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_efx_pp_item_prices_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX PP - Items Prices SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/PortalProveedores/PreciosYpromociones/efx_pp_item_prices_sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_pp_item_prices_sl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole>ADMINISTRATOR|VENDOR_CENTER</audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX PP - Items Prices SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

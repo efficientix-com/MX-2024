@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_fb_tp_dashboard_index_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Dashboard FE Index SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Tekiio Plus/Modulos/Dashboard Facturacion/UI/index.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_fb_tp_dashboard_index_sl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Dashboard FE Index SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

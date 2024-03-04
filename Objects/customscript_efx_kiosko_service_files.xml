@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_efx_kiosko_service_files">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX - Kiosko Service Downloads Files</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_Kiosko_Download_Files.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_kiosko_service_files">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX - Kiosko Service Downloads Files</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

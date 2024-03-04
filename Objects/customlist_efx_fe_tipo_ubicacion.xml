@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_tipo_ubicacion">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>CP - Tipo Ubicacion</name>
+  <customvalues>
+    <customvalue scriptid="val_256912_t2220309_778">
+      <isinactive>F</isinactive>
+      <value>Origen</value>
+    </customvalue>
+    <customvalue scriptid="val_256913_t2220309_444">
+      <isinactive>F</isinactive>
+      <value>Destino</value>
+    </customvalue>
+  </customvalues>
+</customlist>

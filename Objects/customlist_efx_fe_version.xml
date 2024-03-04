@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_version">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>EFX FE - Version</name>
+  <customvalues>
+    <customvalue scriptid="val_603101_t2220309_732">
+      <isinactive>F</isinactive>
+      <value>CFDI 3.3</value>
+    </customvalue>
+    <customvalue scriptid="val_603102_t2220309_493">
+      <isinactive>F</isinactive>
+      <value>CFDI 4.0</value>
+    </customvalue>
+  </customvalues>
+</customlist>

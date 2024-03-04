@@ -1,0 +1,85 @@
+<transactionbodycustomfield scriptid="custbody_efx_fe_ce_propietario_numreg">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <bodyassemblybuild>F</bodyassemblybuild>
+  <bodybom>F</bodybom>
+  <bodycustomerpayment>F</bodycustomerpayment>
+  <bodycustomtransactions></bodycustomtransactions>
+  <bodydeposit>F</bodydeposit>
+  <bodydepositapplication>F</bodydepositapplication>
+  <bodyexpensereport>F</bodyexpensereport>
+  <bodyfulfillmentrequest>F</bodyfulfillmentrequest>
+  <bodyinventoryadjustment>F</bodyinventoryadjustment>
+  <bodyitemfulfillment>T</bodyitemfulfillment>
+  <bodyitemfulfillmentorder>F</bodyitemfulfillmentorder>
+  <bodyitemreceipt>F</bodyitemreceipt>
+  <bodyitemreceiptorder>F</bodyitemreceiptorder>
+  <bodyjournal>F</bodyjournal>
+  <bodyopportunity>F</bodyopportunity>
+  <bodyothertransaction>F</bodyothertransaction>
+  <bodyperiodendjournal>F</bodyperiodendjournal>
+  <bodypickingticket>F</bodypickingticket>
+  <bodyprintflag>F</bodyprintflag>
+  <bodyprintpackingslip>F</bodyprintpackingslip>
+  <bodyprintstatement>F</bodyprintstatement>
+  <bodypurchase>F</bodypurchase>
+  <bodysale>T</bodysale>
+  <bodystore>F</bodystore>
+  <bodytransferorder>T</bodytransferorder>
+  <bodyvendorpayment>F</bodyvendorpayment>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description>En este nodo se deben expresar los datos del o de los propietarios de la mercancía que se&#xd;
+traslada y que no es objeto de enajenación, cuando el emisor del CFDI es un tercero, que&#xd;
+opte por utilizar este complemento.&#xd;
+No aplica en el caso de mercancías de exportación con clave de pedimento “A1” cuando&#xd;
+éstas sean objeto de enajenación en términos del artículo 14 del Código Fiscal de la&#xd;
+Federación.&#xd;
+Si el valor del campo “Motivo Traslado” tiene un valor “05” (Envío de mercancías propiedad&#xd;
+de terceros), debe existir por lo menos un nodo propietario.&#xd;
+Se debe registrar el número de identificación o registro fiscal del país de residencia para&#xd;
+efectos fiscales del o de los propietarios de la mercancía trasladada y puede conformarse&#xd;
+desde 6 a 40 caracteres.</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <fldsizelabel></fldsizelabel>
+  <globalsearch>F</globalsearch>
+  <help>En este nodo se deben expresar los datos del o de los propietarios de la mercancía que se&#xd;
+traslada y que no es objeto de enajenación, cuando el emisor del CFDI es un tercero, que&#xd;
+opte por utilizar este complemento.&#xd;
+No aplica en el caso de mercancías de exportación con clave de pedimento “A1” cuando&#xd;
+éstas sean objeto de enajenación en términos del artículo 14 del Código Fiscal de la&#xd;
+Federación.&#xd;
+Si el valor del campo “Motivo Traslado” tiene un valor “05” (Envío de mercancías propiedad&#xd;
+de terceros), debe existir por lo menos un nodo propietario.&#xd;
+Se debe registrar el número de identificación o registro fiscal del país de residencia para&#xd;
+efectos fiscales del o de los propietarios de la mercancía trasladada y puede conformarse&#xd;
+desde 6 a 40 caracteres.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>CE Propietario NumRegIdTrib</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>[scriptid=custtab_mx_cfdi_data]</subtab>
+</transactionbodycustomfield>

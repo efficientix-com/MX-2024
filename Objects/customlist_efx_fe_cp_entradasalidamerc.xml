@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_cp_entradasalidamerc">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>CP - EntradaSalidaMerc</name>
+  <customvalues>
+    <customvalue scriptid="val_255201_t2220309_725">
+      <isinactive>F</isinactive>
+      <value>Entrada</value>
+    </customvalue>
+    <customvalue scriptid="val_255202_t2220309_478">
+      <isinactive>F</isinactive>
+      <value>Salida</value>
+    </customvalue>
+  </customvalues>
+</customlist>

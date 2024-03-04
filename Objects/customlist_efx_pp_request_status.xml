@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_efx_pp_request_status">
+  <description>It list all the Update Prices request’s status.</description>
+  <isinactive>F</isinactive>
+  <isordered>F</isordered>
+  <name>PP - Request status</name>
+  <customvalues>
+    <customvalue scriptid="val_226264_5787867_sb1_852">
+      <isinactive>F</isinactive>
+      <value>Aprobado (Approved)</value>
+    </customvalue>
+    <customvalue scriptid="val_1475776_5907646_sb1_941">
+      <isinactive>F</isinactive>
+      <value>Borrador (Draft)</value>
+    </customvalue>
+    <customvalue scriptid="val_226266_5787867_sb1_445">
+      <isinactive>F</isinactive>
+      <value>Completado (Completed)</value>
+    </customvalue>
+    <customvalue scriptid="val_226265_5787867_sb1_440">
+      <isinactive>F</isinactive>
+      <value>Pendiente de aprobación (Pending approval)</value>
+    </customvalue>
+    <customvalue scriptid="val_226267_5787867_sb1_181">
+      <isinactive>F</isinactive>
+      <value>Rechazado (Rejected)</value>
+    </customvalue>
+  </customvalues>
+</customlist>

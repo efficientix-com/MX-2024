@@ -1,0 +1,57 @@
+<entitycustomfield scriptid="custentity_efx_fe_residenciafiscal">
+  <accesslevel>2</accesslevel>
+  <appliestocontact>T</appliestocontact>
+  <appliestocustomer>T</appliestocustomer>
+  <appliestoemployee>F</appliestoemployee>
+  <appliestogenericrsrc>F</appliestogenericrsrc>
+  <appliestogroup>F</appliestogroup>
+  <appliestoothername>F</appliestoothername>
+  <appliestopartner>F</appliestopartner>
+  <appliestopricelist>F</appliestopricelist>
+  <appliestoproject>F</appliestoproject>
+  <appliestoprojecttemplate>F</appliestoprojecttemplate>
+  <appliestostatement>F</appliestostatement>
+  <appliestovendor>F</appliestovendor>
+  <appliestowebsite>F</appliestowebsite>
+  <applyformatting>F</applyformatting>
+  <availableexternally>F</availableexternally>
+  <availabletosso>F</availabletosso>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description>En este campo podrás registrar la clave del país que corresponde al tipo&#xd;
+de figura de transporte, siempre que se haya registrado un valor en el&#xd;
+campo “NumRegIdTrib”.</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <globalsearch>F</globalsearch>
+  <help>En este campo podrás registrar la clave del país que corresponde al tipo&#xd;
+de figura de transporte, siempre que se haya registrado un valor en el&#xd;
+campo “NumRegIdTrib”.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>Residencia Fiscal</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>ENTITYMAIN</subtab>
+</entitycustomfield>

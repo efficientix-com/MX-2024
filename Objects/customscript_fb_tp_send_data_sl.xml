@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_fb_tp_send_data_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Envia datos a validar SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Tekiio Plus/Modulos/Timbrado/UI/fb_tp_send_data_SL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_fb_tp_send_data_sl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Envia datos a validar SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

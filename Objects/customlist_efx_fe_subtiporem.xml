@@ -1,0 +1,132 @@
+<customlist scriptid="customlist_efx_fe_subtiporem">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SubTipoRem</name>
+  <customvalues>
+    <customvalue scriptid="val_281809_t2220309_532">
+      <isinactive>F</isinactive>
+      <value>CTR003-Caja Abierta</value>
+    </customvalue>
+    <customvalue scriptid="val_214782_t2220345_428">
+      <isinactive>F</isinactive>
+      <value>CTR001-Caballete</value>
+    </customvalue>
+    <customvalue scriptid="val_214783_t2220345_452">
+      <isinactive>F</isinactive>
+      <value>CTR002-Caja</value>
+    </customvalue>
+    <customvalue scriptid="val_214784_t2220345_390">
+      <isinactive>F</isinactive>
+      <value>CTR004-Caja Cerrada</value>
+    </customvalue>
+    <customvalue scriptid="val_214785_t2220345_161">
+      <isinactive>F</isinactive>
+      <value>CTR005-Caja De Recolección Con Cargador Frontal</value>
+    </customvalue>
+    <customvalue scriptid="val_214786_t2220345_911">
+      <isinactive>F</isinactive>
+      <value>CTR006-Caja Refrigerada</value>
+    </customvalue>
+    <customvalue scriptid="val_214787_t2220345_413">
+      <isinactive>F</isinactive>
+      <value>CTR007-Caja Seca</value>
+    </customvalue>
+    <customvalue scriptid="val_214788_t2220345_146">
+      <isinactive>F</isinactive>
+      <value>CTR008-Caja Transferencia</value>
+    </customvalue>
+    <customvalue scriptid="val_214789_t2220345_681">
+      <isinactive>F</isinactive>
+      <value>CTR009-Cama Baja o Cuello Ganso</value>
+    </customvalue>
+    <customvalue scriptid="val_214790_t2220345_687">
+      <isinactive>F</isinactive>
+      <value>CTR010-Chasis Portacontenedor</value>
+    </customvalue>
+    <customvalue scriptid="val_214791_t2220345_348">
+      <isinactive>F</isinactive>
+      <value>CTR011-Convencional De Chasis</value>
+    </customvalue>
+    <customvalue scriptid="val_214792_t2220345_561">
+      <isinactive>F</isinactive>
+      <value>CTR012-Equipo Especial</value>
+    </customvalue>
+    <customvalue scriptid="val_214793_t2220345_686">
+      <isinactive>F</isinactive>
+      <value>CTR013-Estacas</value>
+    </customvalue>
+    <customvalue scriptid="val_214794_t2220345_256">
+      <isinactive>F</isinactive>
+      <value>CTR014-Góndola Madrina</value>
+    </customvalue>
+    <customvalue scriptid="val_214795_t2220345_142">
+      <isinactive>F</isinactive>
+      <value>CTR015-Grúa Industrial</value>
+    </customvalue>
+    <customvalue scriptid="val_214796_t2220345_153">
+      <isinactive>F</isinactive>
+      <value>CTR016-Grúa </value>
+    </customvalue>
+    <customvalue scriptid="val_214797_t2220345_252">
+      <isinactive>F</isinactive>
+      <value>CTR017-Integral</value>
+    </customvalue>
+    <customvalue scriptid="val_214798_t2220345_105">
+      <isinactive>F</isinactive>
+      <value>CTR018-Jaula</value>
+    </customvalue>
+    <customvalue scriptid="val_214799_t2220345_799">
+      <isinactive>F</isinactive>
+      <value>CTR019-Media Redila</value>
+    </customvalue>
+    <customvalue scriptid="val_214800_t2220345_679">
+      <isinactive>F</isinactive>
+      <value>CTR020-Pallet o Celdillas</value>
+    </customvalue>
+    <customvalue scriptid="val_214801_t2220345_973">
+      <isinactive>F</isinactive>
+      <value>CTR021-Plataforma</value>
+    </customvalue>
+    <customvalue scriptid="val_214802_t2220345_447">
+      <isinactive>F</isinactive>
+      <value>CTR022-Plataforma Con Grúa</value>
+    </customvalue>
+    <customvalue scriptid="val_214803_t2220345_127">
+      <isinactive>F</isinactive>
+      <value>CTR023-Plataforma Encortinada</value>
+    </customvalue>
+    <customvalue scriptid="val_214804_t2220345_711">
+      <isinactive>F</isinactive>
+      <value>CTR024-Redilas</value>
+    </customvalue>
+    <customvalue scriptid="val_214805_t2220345_407">
+      <isinactive>F</isinactive>
+      <value>CTR025-Refrigerador</value>
+    </customvalue>
+    <customvalue scriptid="val_214806_t2220345_767">
+      <isinactive>F</isinactive>
+      <value>CTR026-Revolvedora</value>
+    </customvalue>
+    <customvalue scriptid="val_214807_t2220345_661">
+      <isinactive>F</isinactive>
+      <value>CTR027-Semicaja</value>
+    </customvalue>
+    <customvalue scriptid="val_214808_t2220345_663">
+      <isinactive>F</isinactive>
+      <value>CTR028-Tanque</value>
+    </customvalue>
+    <customvalue scriptid="val_214809_t2220345_703">
+      <isinactive>F</isinactive>
+      <value>CTR029-Tolva</value>
+    </customvalue>
+    <customvalue scriptid="val_214810_t2220345_785">
+      <isinactive>F</isinactive>
+      <value>CTR031-Volteo</value>
+    </customvalue>
+    <customvalue scriptid="val_214811_t2220345_607">
+      <isinactive>F</isinactive>
+      <value>CTR032-Volteo Desmontable</value>
+    </customvalue>
+  </customvalues>
+</customlist>

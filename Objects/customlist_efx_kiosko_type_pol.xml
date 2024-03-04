@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_efx_kiosko_type_pol">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>EFX - Tipo de Política</name>
+  <customvalues>
+    <customvalue scriptid="val_240257_t2220309_340">
+      <isinactive>F</isinactive>
+      <value>Limite de dias</value>
+    </customvalue>
+    <customvalue scriptid="val_213779_t2220345_638">
+      <isinactive>F</isinactive>
+      <value>Inicio de año</value>
+    </customvalue>
+    <customvalue scriptid="val_213780_t2220345_668">
+      <isinactive>F</isinactive>
+      <value>Mes Actual</value>
+    </customvalue>
+  </customvalues>
+</customlist>

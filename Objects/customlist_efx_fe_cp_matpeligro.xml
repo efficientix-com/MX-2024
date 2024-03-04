@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_efx_fe_cp_matpeligro">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>CP - Material peligroso</name>
+  <customvalues>
+    <customvalue scriptid="val_603997_t2220309_234">
+      <isinactive>F</isinactive>
+      <value>Sí</value>
+    </customvalue>
+    <customvalue scriptid="val_603998_t2220309_303">
+      <isinactive>F</isinactive>
+      <value>No</value>
+    </customvalue>
+  </customvalues>
+</customlist>

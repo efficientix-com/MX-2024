@@ -1,0 +1,40 @@
+<othercustomfield scriptid="custrecord_efx_fe_ce_pais">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <applytoallforms>T</applytoallforms>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description></description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>SELECT</fieldtype>
+  <help>En este campo se deberá registrar la clave del país en donde&#xd;
+se encuentra ubicado el domicilio a utilizar en para la carta porte o comercio exterior.&#xd;
+Este campo debe contener una clave del catálogo c_Pais, publicado en el portal del SAT.&#xd;
+Ejemplo:&#xd;
+Pais= MEX</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>SAT Pais</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete>NO_ACTION</onparentdelete>
+  <rectype>-289</rectype>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype>[scriptid=customrecord_efx_fe_sat_pais]</selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>T</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+</othercustomfield>

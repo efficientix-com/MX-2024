@@ -1,0 +1,44 @@
+<customlist scriptid="customlist_fb_tp_socie_merca">
+  <description>Listado de sociedades mercantiles</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Sociedades Mercantiles</name>
+  <customvalues>
+    <customvalue scriptid="val_620867_t2220309_653">
+      <isinactive>F</isinactive>
+      <value>S.A</value>
+    </customvalue>
+    <customvalue scriptid="val_620868_t2220309_909">
+      <isinactive>F</isinactive>
+      <value>S de R.L</value>
+    </customvalue>
+    <customvalue scriptid="val_620869_t2220309_574">
+      <isinactive>F</isinactive>
+      <value>S.A.S</value>
+    </customvalue>
+    <customvalue scriptid="val_620870_t2220309_118">
+      <isinactive>F</isinactive>
+      <value>S. en C</value>
+    </customvalue>
+    <customvalue scriptid="val_620871_t2220309_207">
+      <isinactive>F</isinactive>
+      <value>S.C</value>
+    </customvalue>
+    <customvalue scriptid="val_620872_t2220309_135">
+      <isinactive>F</isinactive>
+      <value>S.C.L</value>
+    </customvalue>
+    <customvalue scriptid="val_620873_t2220309_608">
+      <isinactive>F</isinactive>
+      <value>S.C.S</value>
+    </customvalue>
+    <customvalue scriptid="val_620874_t2220309_984">
+      <isinactive>F</isinactive>
+      <value>S.A.P.I</value>
+    </customvalue>
+    <customvalue scriptid="val_620875_t2220309_974">
+      <isinactive>F</isinactive>
+      <value>de C.V</value>
+    </customvalue>
+  </customvalues>
+</customlist>

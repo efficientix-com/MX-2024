@@ -1,0 +1,69 @@
+<transactionbodycustomfield scriptid="custbody_efx_fe_acuse_cancel">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <bodyassemblybuild>F</bodyassemblybuild>
+  <bodybom>F</bodybom>
+  <bodycustomerpayment>F</bodycustomerpayment>
+  <bodycustomtransactions>[scriptid=customsale_efx_fe_factura_global]</bodycustomtransactions>
+  <bodydeposit>F</bodydeposit>
+  <bodydepositapplication>F</bodydepositapplication>
+  <bodyexpensereport>F</bodyexpensereport>
+  <bodyfulfillmentrequest>F</bodyfulfillmentrequest>
+  <bodyinventoryadjustment>F</bodyinventoryadjustment>
+  <bodyitemfulfillment>T</bodyitemfulfillment>
+  <bodyitemfulfillmentorder>F</bodyitemfulfillmentorder>
+  <bodyitemreceipt>T</bodyitemreceipt>
+  <bodyitemreceiptorder>F</bodyitemreceiptorder>
+  <bodyjournal>F</bodyjournal>
+  <bodyopportunity>F</bodyopportunity>
+  <bodyothertransaction>F</bodyothertransaction>
+  <bodyperiodendjournal>F</bodyperiodendjournal>
+  <bodypickingticket>F</bodypickingticket>
+  <bodyprintflag>F</bodyprintflag>
+  <bodyprintpackingslip>F</bodyprintpackingslip>
+  <bodyprintstatement>F</bodyprintstatement>
+  <bodypurchase>T</bodypurchase>
+  <bodysale>T</bodysale>
+  <bodystore>F</bodystore>
+  <bodytransferorder>T</bodytransferorder>
+  <bodyvendorpayment>F</bodyvendorpayment>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description></description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <fldsizelabel></fldsizelabel>
+  <globalsearch>F</globalsearch>
+  <help>Este campo se encarga de registrar la cadena de texto del acuse de cancelación recibido por el SAT.&#xd;
+&#xd;
+Translation:&#xd;
+&#xd;
+This field is responsible for registering the text string of the cancellation acknowledgment received by the SAT.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>Acuse Cancelacion CFDI</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>[scriptid=custtab_mx_cfdi_data]</subtab>
+</transactionbodycustomfield>

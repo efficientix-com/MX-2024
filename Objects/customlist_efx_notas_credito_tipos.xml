@@ -1,0 +1,52 @@
+<customlist scriptid="customlist_efx_notas_credito_tipos">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Tipos de notas</name>
+  <customvalues>
+    <customvalue scriptid="val_255292_t2220309_327">
+      <isinactive>F</isinactive>
+      <value>TRADE SPEND</value>
+    </customvalue>
+    <customvalue scriptid="val_255293_t2220309_322">
+      <isinactive>F</isinactive>
+      <value>FILL RATE</value>
+    </customvalue>
+    <customvalue scriptid="val_255294_t2220309_954">
+      <isinactive>F</isinactive>
+      <value>RECHAZO</value>
+    </customvalue>
+    <customvalue scriptid="val_255295_t2220309_675">
+      <isinactive>F</isinactive>
+      <value>DEVOLUCION</value>
+    </customvalue>
+    <customvalue scriptid="val_255296_t2220309_923">
+      <isinactive>F</isinactive>
+      <value>PRONTO PAGO</value>
+    </customvalue>
+    <customvalue scriptid="val_255297_t2220309_995">
+      <isinactive>F</isinactive>
+      <value>RECUPERACION APOYO EN COSTO</value>
+    </customvalue>
+    <customvalue scriptid="val_255298_t2220309_263">
+      <isinactive>F</isinactive>
+      <value>ANTICIPO</value>
+    </customvalue>
+    <customvalue scriptid="val_255299_t2220309_600">
+      <isinactive>F</isinactive>
+      <value>CANCELACIÓN DE ANTICIPO</value>
+    </customvalue>
+    <customvalue scriptid="val_255300_t2220309_944">
+      <isinactive>F</isinactive>
+      <value>REBAJA SOBRE VENTA</value>
+    </customvalue>
+    <customvalue scriptid="val_255301_t2220309_669">
+      <isinactive>F</isinactive>
+      <value>REBAJA SOBRE VENTA VINUX</value>
+    </customvalue>
+    <customvalue scriptid="val_255302_t2220309_526">
+      <isinactive>F</isinactive>
+      <value>PROGRAMA DE LEALTAD</value>
+    </customvalue>
+  </customvalues>
+</customlist>

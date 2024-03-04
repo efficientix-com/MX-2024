@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_efx_fe_tipo_transporte">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Tipo de Transporte</name>
+  <customvalues>
+    <customvalue scriptid="val_255186_t2220309_694">
+      <isinactive>F</isinactive>
+      <value>01 -  Autotransporte Federal</value>
+    </customvalue>
+    <customvalue scriptid="val_255187_t2220309_457">
+      <isinactive>F</isinactive>
+      <value>02 - Transporte Maritimo</value>
+    </customvalue>
+    <customvalue scriptid="val_255188_t2220309_564">
+      <isinactive>F</isinactive>
+      <value>03 - Transporte Aereo</value>
+    </customvalue>
+    <customvalue scriptid="val_255189_t2220309_184">
+      <isinactive>F</isinactive>
+      <value>04 - Transporte Ferroviario</value>
+    </customvalue>
+  </customvalues>
+</customlist>

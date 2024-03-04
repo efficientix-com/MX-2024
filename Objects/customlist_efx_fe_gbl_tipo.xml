@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_efx_fe_gbl_tipo">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Tipo Factura GBL</name>
+  <customvalues>
+    <customvalue scriptid="val_245209_t2220309_863">
+      <isinactive>F</isinactive>
+      <value>Articulo por transacción</value>
+    </customvalue>
+    <customvalue scriptid="val_245210_t2220309_802">
+      <isinactive>F</isinactive>
+      <value>Detalle de Articulo</value>
+    </customvalue>
+    <customvalue scriptid="val_245211_t2220309_980">
+      <isinactive>T</isinactive>
+      <value>Articulo global</value>
+    </customvalue>
+    <customvalue scriptid="val_213857_t2220345_151">
+      <isinactive>F</isinactive>
+      <value>Articulo Global</value>
+    </customvalue>
+  </customvalues>
+</customlist>

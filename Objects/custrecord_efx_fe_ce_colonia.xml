@@ -1,0 +1,40 @@
+<othercustomfield scriptid="custrecord_efx_fe_ce_colonia">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <applytoallforms>T</applytoallforms>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description></description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>SELECT</fieldtype>
+  <help>En este campo se podrá registrar la clave de la colonia en donde se ubica el domicilio del origen o destino para carta porte o comercio exterior. El valor registrado en este campo debe coincidir con la clave del código postal registrado en el campo “CodigoPostal”.&#xd;
+Ejemplo:&#xd;
+Colonia= 0900 (Guerrero)&#xd;
+Codigo Postal = 06300&#xd;
+</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>SAT Colonia</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete>NO_ACTION</onparentdelete>
+  <rectype>-289</rectype>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype>[scriptid=customrecord_efx_fe_sat_colonia]</selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>T</showinlist>
+  <sourcefilterby>[scriptid=customrecord_efx_fe_sat_colonia.custrecord_efx_fe_sc_municipio]</sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist>[scriptid=custrecord_efx_fe_ce_municipio]</sourcelist>
+  <storevalue>T</storevalue>
+</othercustomfield>

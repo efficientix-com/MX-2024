@@ -1,0 +1,37 @@
+<customtransactiontype scriptid="customsale_efx_fe_factura_global">
+  <cancloseorder>F</cancloseorder>
+  <iscredit>F</iscredit>
+  <isposting>F</isposting>
+  <isvoidable>F</isvoidable>
+  <name>EFX FE - Factura Global</name>
+  <showstatus>F</showstatus>
+  <transactionstyle>SALES</transactionstyle>
+  <accounting>
+    <specifyaccountontransaction>F</specifyaccountontransaction>
+  </accounting>
+  <statuses>
+    <status scriptid="status_10002_t2220309_279">
+      <description>Pendiente</description>
+      <id>A</id>
+      <isposting>F</isposting>
+    </status>
+    <status scriptid="status_10003_t2220309_588">
+      <description>Certificada</description>
+      <id>B</id>
+      <isposting>F</isposting>
+    </status>
+  </statuses>
+  <permissions>
+    <permission>
+      <permittedlevel>FULL</permittedlevel>
+      <permittedrole>ADMINISTRATOR</permittedrole>
+    </permission>
+  </permissions>
+  <links>
+    <link>
+      <linkcategory>BASICTRANSACTIONSSALES</linkcategory>
+      <linklabel>Listado Factura Global</linklabel>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customtransactiontype>

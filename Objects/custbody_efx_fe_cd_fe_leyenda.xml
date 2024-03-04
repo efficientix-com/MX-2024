@@ -1,0 +1,67 @@
+<transactionbodycustomfield scriptid="custbody_efx_fe_cd_fe_leyenda">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <bodyassemblybuild>F</bodyassemblybuild>
+  <bodybom>F</bodybom>
+  <bodycustomerpayment>F</bodycustomerpayment>
+  <bodycustomtransactions></bodycustomtransactions>
+  <bodydeposit>F</bodydeposit>
+  <bodydepositapplication>F</bodydepositapplication>
+  <bodyexpensereport>F</bodyexpensereport>
+  <bodyfulfillmentrequest>F</bodyfulfillmentrequest>
+  <bodyinventoryadjustment>F</bodyinventoryadjustment>
+  <bodyitemfulfillment>F</bodyitemfulfillment>
+  <bodyitemfulfillmentorder>F</bodyitemfulfillmentorder>
+  <bodyitemreceipt>F</bodyitemreceipt>
+  <bodyitemreceiptorder>F</bodyitemreceiptorder>
+  <bodyjournal>F</bodyjournal>
+  <bodyopportunity>F</bodyopportunity>
+  <bodyothertransaction>F</bodyothertransaction>
+  <bodyperiodendjournal>F</bodyperiodendjournal>
+  <bodypickingticket>F</bodypickingticket>
+  <bodyprintflag>F</bodyprintflag>
+  <bodyprintpackingslip>F</bodyprintpackingslip>
+  <bodyprintstatement>F</bodyprintstatement>
+  <bodypurchase>F</bodypurchase>
+  <bodysale>T</bodysale>
+  <bodystore>F</bodystore>
+  <bodytransferorder>F</bodytransferorder>
+  <bodyvendorpayment>F</bodyvendorpayment>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue>Este comprobante ampara un donativo, el cual será destinado por la donataria a los fines propios de su objeto social. En el caso de que los bienes donados hayan sido deducidos previamente para los efectos del impuesto sobre la renta, este donativo no es deducible. La reproducción no autorizada de este comprobante constituye un delito en los términos de las disposiciones fiscales.</defaultvalue>
+  <description>Atributo requerido para señalar de manera expresa que el&#xd;
+comprobante que se expide se deriva de un donativo.</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>CLOBTEXT</fieldtype>
+  <fldsizelabel></fldsizelabel>
+  <globalsearch>F</globalsearch>
+  <help>Atributo requerido para señalar de manera expresa que el&#xd;
+comprobante que se expide se deriva de un donativo.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>DONATIVO LEYENDA</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom>[scriptid=custrecord_efx_fe_cd_fe_leyendasb]</sourcefrom>
+  <sourcelist>STDBODYSUBSIDIARY</sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>[scriptid=custtab_mx_cfdi_data]</subtab>
+</transactionbodycustomfield>

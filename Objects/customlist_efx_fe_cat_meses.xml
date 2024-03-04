@@ -1,0 +1,80 @@
+<customlist scriptid="customlist_efx_fe_cat_meses">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SAT - Meses</name>
+  <customvalues>
+    <customvalue scriptid="val_195222_7072931_sb1_315">
+      <isinactive>F</isinactive>
+      <value>01-Enero</value>
+    </customvalue>
+    <customvalue scriptid="val_195223_7072931_sb1_843">
+      <isinactive>F</isinactive>
+      <value>02-Febrero</value>
+    </customvalue>
+    <customvalue scriptid="val_195224_7072931_sb1_366">
+      <isinactive>F</isinactive>
+      <value>03-Marzo</value>
+    </customvalue>
+    <customvalue scriptid="val_195225_7072931_sb1_437">
+      <isinactive>F</isinactive>
+      <value>04-Abril</value>
+    </customvalue>
+    <customvalue scriptid="val_195226_7072931_sb1_633">
+      <isinactive>F</isinactive>
+      <value>05-Mayo</value>
+    </customvalue>
+    <customvalue scriptid="val_195227_7072931_sb1_786">
+      <isinactive>F</isinactive>
+      <value>06-Junio</value>
+    </customvalue>
+    <customvalue scriptid="val_195228_7072931_sb1_395">
+      <isinactive>F</isinactive>
+      <value>07-Julio</value>
+    </customvalue>
+    <customvalue scriptid="val_195229_7072931_sb1_312">
+      <isinactive>F</isinactive>
+      <value>08-Agosto</value>
+    </customvalue>
+    <customvalue scriptid="val_195230_7072931_sb1_509">
+      <isinactive>F</isinactive>
+      <value>09-Septiembre</value>
+    </customvalue>
+    <customvalue scriptid="val_195231_7072931_sb1_866">
+      <isinactive>F</isinactive>
+      <value>10-Octubre</value>
+    </customvalue>
+    <customvalue scriptid="val_195232_7072931_sb1_245">
+      <isinactive>F</isinactive>
+      <value>11-Noviembre</value>
+    </customvalue>
+    <customvalue scriptid="val_195233_7072931_sb1_683">
+      <isinactive>F</isinactive>
+      <value>12-Diciembre</value>
+    </customvalue>
+    <customvalue scriptid="val_195234_7072931_sb1_825">
+      <isinactive>F</isinactive>
+      <value>13-Enero-Febrero</value>
+    </customvalue>
+    <customvalue scriptid="val_195235_7072931_sb1_252">
+      <isinactive>F</isinactive>
+      <value>14-Marzo-Abril</value>
+    </customvalue>
+    <customvalue scriptid="val_195236_7072931_sb1_520">
+      <isinactive>F</isinactive>
+      <value>15-Mayo-Junio</value>
+    </customvalue>
+    <customvalue scriptid="val_195237_7072931_sb1_121">
+      <isinactive>F</isinactive>
+      <value>16-Julio-Agosto</value>
+    </customvalue>
+    <customvalue scriptid="val_195238_7072931_sb1_921">
+      <isinactive>F</isinactive>
+      <value>17-Septiembre-Octubre</value>
+    </customvalue>
+    <customvalue scriptid="val_195239_7072931_sb1_676">
+      <isinactive>F</isinactive>
+      <value>18-Noviembre-Diciembre</value>
+    </customvalue>
+  </customvalues>
+</customlist>

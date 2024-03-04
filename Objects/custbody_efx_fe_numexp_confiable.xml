@@ -1,0 +1,79 @@
+<transactionbodycustomfield scriptid="custbody_efx_fe_numexp_confiable">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <bodyassemblybuild>F</bodyassemblybuild>
+  <bodybom>F</bodybom>
+  <bodycustomerpayment>F</bodycustomerpayment>
+  <bodycustomtransactions></bodycustomtransactions>
+  <bodydeposit>F</bodydeposit>
+  <bodydepositapplication>F</bodydepositapplication>
+  <bodyexpensereport>F</bodyexpensereport>
+  <bodyfulfillmentrequest>F</bodyfulfillmentrequest>
+  <bodyinventoryadjustment>F</bodyinventoryadjustment>
+  <bodyitemfulfillment>T</bodyitemfulfillment>
+  <bodyitemfulfillmentorder>F</bodyitemfulfillmentorder>
+  <bodyitemreceipt>F</bodyitemreceipt>
+  <bodyitemreceiptorder>F</bodyitemreceiptorder>
+  <bodyjournal>F</bodyjournal>
+  <bodyopportunity>F</bodyopportunity>
+  <bodyothertransaction>F</bodyothertransaction>
+  <bodyperiodendjournal>F</bodyperiodendjournal>
+  <bodypickingticket>F</bodypickingticket>
+  <bodyprintflag>F</bodyprintflag>
+  <bodyprintpackingslip>F</bodyprintpackingslip>
+  <bodyprintstatement>F</bodyprintstatement>
+  <bodypurchase>F</bodypurchase>
+  <bodysale>T</bodysale>
+  <bodystore>F</bodystore>
+  <bodytransferorder>T</bodytransferorder>
+  <bodyvendorpayment>F</bodyvendorpayment>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description>Se debe registrar el número de exportador confiable, conforme al artículo 22 del Anexo 1&#xd;
+del Tratado de Libre Comercio con la Asociación Europea y a la Decisión de la Comunidad&#xd;
+Europea y puede conformarse desde 1 hasta 50 caracteres alfanuméricos.&#xd;
+Si la clave de país del receptor o del destinatario no corresponde a un país del catálogo&#xd;
+c_Pais del comprobante fiscal, donde la columna “Agrupación” tenga el valor “Unión&#xd;
+Europea”, este campo no debe registrarse.&#xd;
+Ejemplo:&#xd;
+NumeroExportadorConfiable= Az3Ññ&amp;-wdctghnujk9\, ó A569874-35</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>TEXT</fieldtype>
+  <fldsizelabel></fldsizelabel>
+  <globalsearch>F</globalsearch>
+  <help>Se debe registrar el número de exportador confiable, conforme al artículo 22 del Anexo 1&#xd;
+del Tratado de Libre Comercio con la Asociación Europea y a la Decisión de la Comunidad&#xd;
+Europea y puede conformarse desde 1 hasta 50 caracteres alfanuméricos.&#xd;
+Si la clave de país del receptor o del destinatario no corresponde a un país del catálogo&#xd;
+c_Pais del comprobante fiscal, donde la columna “Agrupación” tenga el valor “Unión&#xd;
+Europea”, este campo no debe registrarse.&#xd;
+Ejemplo:&#xd;
+NumeroExportadorConfiable= Az3Ññ&amp;-wdctghnujk9\, ó A569874-35</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <isparent>F</isparent>
+  <label>CE NumeroExportadorConfiable</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <parentsubtab></parentsubtab>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>F</showinlist>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+  <subtab>[scriptid=custtab_efx_fe_ce]</subtab>
+</transactionbodycustomfield>

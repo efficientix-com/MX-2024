@@ -1,0 +1,37 @@
+<othercustomfield scriptid="custrecord_efx_fe_ce_localidad">
+  <accesslevel>2</accesslevel>
+  <applyformatting>F</applyformatting>
+  <applytoallforms>T</applytoallforms>
+  <checkspelling>F</checkspelling>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue></defaultvalue>
+  <description></description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>SELECT</fieldtype>
+  <help>En este campo se podrá registrar la clave que corresponda a la ciudad o población, en donde se encuentra ubicado el domicilio utilizado para la carta porte o comercio exterior, si la clave del país es distinta a “MEX” se puede registrar texto libre.&#xd;
+La clave capturada en este campo debe coincidir con el estado capturado en el campo “Estado”.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>SAT Localidad</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete>NO_ACTION</onparentdelete>
+  <rectype>-289</rectype>
+  <searchcomparefield></searchcomparefield>
+  <searchdefault></searchdefault>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype>[scriptid=customrecord_efx_fe_sat_localidad]</selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <showinlist>T</showinlist>
+  <sourcefilterby>[scriptid=customrecord_efx_fe_sat_localidad.custrecord_efx_fe_sl_estado]</sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist>[scriptid=custrecord_efx_fe_ce_estado]</sourcelist>
+  <storevalue>T</storevalue>
+</othercustomfield>

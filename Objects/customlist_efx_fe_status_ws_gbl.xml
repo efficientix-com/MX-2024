@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_efx_fe_status_ws_gbl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Status WS GBL</name>
+  <customvalues>
+    <customvalue scriptid="val_1871260_5907646_sb2_811">
+      <isinactive>F</isinactive>
+      <value>Creado</value>
+    </customvalue>
+    <customvalue scriptid="val_1871261_5907646_sb2_319">
+      <isinactive>F</isinactive>
+      <value>Procesando</value>
+    </customvalue>
+    <customvalue scriptid="val_1871262_5907646_sb2_453">
+      <isinactive>F</isinactive>
+      <value>Error</value>
+    </customvalue>
+    <customvalue scriptid="val_1871263_5907646_sb2_737">
+      <isinactive>F</isinactive>
+      <value>Procesado</value>
+    </customvalue>
+    <customvalue scriptid="val_1871264_5907646_sb2_798">
+      <isinactive>F</isinactive>
+      <value>Pendiente</value>
+    </customvalue>
+  </customvalues>
+</customlist>

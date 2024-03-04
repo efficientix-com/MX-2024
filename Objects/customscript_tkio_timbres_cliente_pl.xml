@@ -1,0 +1,25 @@
+<portlet scriptid="customscript_tkio_timbres_cliente_pl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Tkio - Timbres Cliente</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <portlettype>FORM</portlettype>
+  <scriptfile>[/SuiteScripts/MX+ 2024/Utilities/tkio_timbres_cliente_pl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_tkio_timbres_cliente_pl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <dashboardapp>T</dashboardapp>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Tkio - Timbres Cliente</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</portlet>

@@ -1,0 +1,12 @@
+<customlist scriptid="customlist_efx_cp_service">
+  <description>Servicio al que se va a conectar</description>
+  <isinactive>F</isinactive>
+  <isordered>F</isordered>
+  <name>CP - Servicio</name>
+  <customvalues>
+    <customvalue scriptid="val_238524_t2220309_507">
+      <isinactive>F</isinactive>
+      <value>HEB</value>
+    </customvalue>
+  </customvalues>
+</customlist>

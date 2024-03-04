@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_efx_fe_global_status_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>EFX_FE_Global_Status_SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Global_Status_SL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_efx_fe_global_status_sl">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>EFX_FE_Global_Status_SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

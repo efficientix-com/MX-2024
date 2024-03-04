@@ -1,0 +1,118 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>Tekiio Plus</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">SUITESIGNON</feature>
+      <feature required="true">LOCATIONS</feature>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="false">ADVRECEIVING</feature>
+      <feature required="true">ADVANCEDPRINTING</feature>
+      <feature required="false">FULFILLMENTREQUEST</feature>
+      <feature required="false">MULTILOCINVT</feature>
+      <feature required="true">WORKFLOW</feature>
+      <feature required="false">INVENTORY</feature>
+      <feature required="false">RECEIVABLES</feature>
+      <feature required="false">PAYABLES</feature>
+      <feature required="false">TIMETRACKING</feature>
+      <feature required="true">CUSTOMTRANSACTIONS</feature>
+      <feature required="false">WEBSITE</feature>
+      <feature required="false">OPPORTUNITIES</feature>
+      <feature required="false">ADVANCEDJOBS</feature>
+      <feature required="false">WEBSTORE</feature>
+      <feature required="true">MULTICURRENCY</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">ASSEMBLIES</feature>
+      <feature required="false">EXPREPORTS</feature>
+      <feature required="true">ACCOUNTING</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">SUBSIDIARIES</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="true">UNITSOFMEASURE</feature>
+      <feature required="false">PERIODENDJOURNALENTRIES</feature>
+      <feature required="true">CUSTOMGLLINES</feature>
+      <feature required="false">JOBS</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="true">PURCHASEORDERS</feature>
+      <feature required="false">WORKORDERS</feature>
+    </features>
+    <objects>
+      <object>customrecord_psg_ei_template</object>
+      <object>custbody_psg_ei_generated_edoc</object>
+      <object>customrecord_mx_sat_cfdi_usage</object>
+      <object>custbody_psg_ei_status</object>
+      <object>customrecord_mx_sat_rel_type</object>
+      <object>customrecord_mx_mapper_values</object>
+      <object>custbody_mx_cfdi_uuid</object>
+      <object>customrecord_mx_sat_payment_term</object>
+      <object>custcollection_ei_translations.title_custtab_7_4346104_208</object>
+      <object>customrecord_mx_sat_item_code_mirror</object>
+      <object>customrecord_mx_sat_industry_type</object>
+      <object>customrecord_psg_ei_inbound_edoc</object>
+      <object>customrecord_psg_ei_standards</object>
+      <object>custcollection_ei_translations.title_custtab_6_4346104_208</object>
+      <object>customlist_psg_ei_status</object>
+      <object>customscript_ei_pl_type_validation</object>
+      <object>custbody_psg_ei_content</object>
+      <object>customrecord_ei_sending_method</object>
+      <object>custentity_mx_sat_registered_name</object>
+      <object>customrecord_mx_mapper_category.sat_payment_method</object>
+      <object>customrecord_mx_mapper_values.custrecord_mx_mapper_value_category</object>
+      <object>custentity_mx_sat_industry_type</object>
+      <object>custentity_mx_rfc</object>
+    </objects>
+    <files>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/efx_fe_credit_memo_ckeck_ue.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_Send_To_Mail_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_WS_GBL_Process_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_GL_NC.js</file>
+      <file>/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_kioskostats_index_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/Factoraje/EFX_FE_Factoraje_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/ComercioExterior/EFX_FE_CE_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Actualiza_Archivos_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_PageLoadTiming.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_Monto_Letra_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/Cancelacion/EFX_FE_Cancelacion_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_CFDI_Genera_PDF_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Global_Interface_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Service_Global_RL.js</file>
+      <file>/SuiteScripts/inbound.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_CFDI_Regenera_PDF_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/efx_pp_get_saved_search_ws_sl.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_DetalleDeAnticipo_UE.js</file>
+      <file>/SuiteScripts/Tekiio Plus/Modulos/Dashboard Facturacion/UI/index.js</file>
+      <file>/SuiteScripts/Tekiio Plus/Modulos/Dashboard Facturacion/UI/dashboard_service.js</file>
+      <file>/SuiteScripts/Tekiio Plus/Modulos/Timbrado/Events/fb_tp_valida_datos_fiscales_cliente_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_Payment_Divisa.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/tkio_timbres_cliente_pl.js</file>
+      <file>/SuiteScripts/Tekiio Plus/Modulos/Timbrado/UI/fb_tp_send_data_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/PP_Actualiza_OC_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_AnticipoDePago_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/PP_Process_Master_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/PP_Create_Master_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_GBL_AUTO_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Actualiza_Global_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Actualiza_Global_UUID_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_CFDI_Information.js</file>
+      <file>/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_Kiosko_Service_Config.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Elimina_Relacion_GBL.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/EFX_FE_Ajuste_Timbrado_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Create_Global_Update_MR.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/CartaPorte/EFX_FE_Carta_Porte_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/EFX_FE_Reprocess_ue.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_CFDI_Anticipo_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/efx_pp_render_transaction.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/CartaPorte/EFX_FE_Carta_Porte_CS.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/EFX_FE_AutoTimbrado.js</file>
+      <file>/SuiteScripts/MX+ 2024/Factura_Electronica/Estatus/EFX_FE_CFDIStatus_UE.js</file>
+      <file>/SuiteScripts/MX+ 2024/Kiosko/EFX_FE_Kiosko_Credit_Memo.js</file>
+      <file>/SuiteScripts/MX+ 2024/FacturaGlobal/efx_create_record_mr.js</file>
+      <file>/SuiteScripts/MX+ 2024/Utilities/EFX_FE_Mail_Sender.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/PP_OC_Interface_SL.js</file>
+      <file>/SuiteScripts/MX+ 2024/PortalProveedores/efx_pp_show_report_results_sl.js</file>
+    </files>
+  </dependencies>
+</manifest>

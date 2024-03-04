@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_efx_type_fields">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>EFX - Kiosko Type Fields</name>
+  <customvalues>
+    <customvalue scriptid="text">
+      <isinactive>F</isinactive>
+      <value>text</value>
+    </customvalue>
+    <customvalue scriptid="number">
+      <isinactive>F</isinactive>
+      <value>number</value>
+    </customvalue>
+    <customvalue scriptid="date">
+      <isinactive>F</isinactive>
+      <value>date</value>
+    </customvalue>
+  </customvalues>
+</customlist>
